@@ -1,4 +1,4 @@
-package org.csystem.app;
+package org.bolat.app;
 
 import org.csystem.util.console.Console;
 
